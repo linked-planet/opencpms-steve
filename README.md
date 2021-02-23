@@ -5,7 +5,7 @@
 
 # Introduction
 
-OpenCPMS is a fork of the incredibly project [SteVe](https://github.com/RWTH-i5-IDSG/steve), with the aim of building a lightweight and comprehensive open source Charge Point Management System (CPMS/CSMS).
+OpenCPMS is a fork of the incredible project [SteVe](https://github.com/RWTH-i5-IDSG/steve), with the aim of building a lightweight and comprehensive open source Charge Point Management System (CPMS/CSMS).
  
 ![Steve](src/main/resources/webapp/static/images/logo.png)
 
