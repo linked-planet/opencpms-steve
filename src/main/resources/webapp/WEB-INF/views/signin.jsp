@@ -29,11 +29,11 @@
 	<link rel="icon" href="${ctxPath}/static/images/favicon.ico" type="image/x-icon" />
 	<link rel="shortcut icon" href="${ctxPath}/static/images/favicon.ico" type="image/x-icon" />
 	<link rel="stylesheet" type="text/css" href="${ctxPath}/static/css/style.css">
-	<title>SteVe - Steckdosenverwaltung</title>
+	<title>OpenCPMS</title>
 </head>
 <body>
 <div class="main">
-<div class="top-banner"><div class="container"><a href="${ctxPath}/manager/home"><img src="${ctxPath}/static/images/logo2.png" height="80"></a></div></div>
+<div class="top-banner"><div class="container"><a href="${ctxPath}/manager/home"><img src="${ctxPath}/static/images/opencpms-logo.png" height="80"></a></div></div>
 <div class="top-menu"></div>
 <div class="main-wrapper">
     <c:if test="${param.error != null}">

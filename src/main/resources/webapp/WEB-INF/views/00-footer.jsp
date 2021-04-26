@@ -20,8 +20,7 @@
 --%>
 </div></div>
 <div class="footer">
-	<a href="http://www.rwth-aachen.de"><img src="${ctxPath}/static/images/logo_rwth.png"></a>
-	<a href="http://dbis.rwth-aachen.de"><img src="${ctxPath}/static/images/logo_i5.png"></a>
+	<a href="https://github.com/RWTH-i5-IDSG/steve" target="_blank"><img src="${ctxPath}/static/images/logo.png" height="50"></a>
 </div>
 </body>
 </html>

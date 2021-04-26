@@ -38,13 +38,13 @@
     <script type="text/javascript" src="${ctxPath}/static/js/jquery-ui-timepicker-addon.min.js" ></script>
     <script type="text/javascript" src="${ctxPath}/static/js/script.js" ></script>
     <script type="text/javascript" src="${ctxPath}/static/js/stupidtable.min.js" ></script>
-    <title>SteVe - Steckdosenverwaltung</title>
+    <title>OpenCPMS</title>
 </head>
 <body>
 <div class="main">
     <div class="top-banner">
         <div class="container">
-            <a href="${ctxPath}/manager/home"><img src="${ctxPath}/static/images/logo2.png" height="80"></a>
+            <a href="${ctxPath}/manager/home"><img src="${ctxPath}/static/images/opencpms-logo.png" height="80"></a>
         </div>
     </div>
     <div class="top-menu">

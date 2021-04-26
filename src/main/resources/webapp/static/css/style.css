@@ -72,8 +72,8 @@ table.cpd th {
 	background: #fff;
 	border-bottom: double #CCC;
 }
-table.cpd tr { 
-	border-bottom: 1px solid #CCC; 
+table.cpd tr {
+	border-bottom: 1px solid #CCC;
 }
 table.cpd td {
 	padding: 5px;
@@ -196,6 +196,12 @@ ul.navigation li {
 	padding:0;
 	float:left;
 	position:relative;
+	font-size: 1.1em;
+	font-weight: bold;
+}
+
+ul.navigation li ul li {
+	font-weight: initial;
 }
 
 ul.navigation li a {
@@ -215,7 +221,7 @@ ul.navigation li:hover > ul {
 ul.navigation ul {
 	list-style: none;
     margin: 0;
-    padding: 0;    
+    padding: 0;
     visibility:hidden;
     opacity:0;
     position: absolute;
@@ -238,7 +244,7 @@ ul.navigation ul li a {
 	width: 230px;
 	height: 100%;
 	margin: 0;
-	padding: 0; 
+	padding: 0;
 	list-style-type: none;
 }
 .left-menu ul {
@@ -290,13 +296,13 @@ ul.navigation ul li a {
 .main { height: auto; min-height: 100%; }
 .main-wrapper {
 	padding-bottom: 70px;
-	height: auto; 
+	height: auto;
 }
 .top-banner {
 	width: 100%;
 	height: 80px;
 	border-radius: 0;
-	background: #71797d;
+	background-image: linear-gradient( 113.3deg, rgba(217,9,27,1) 6.9%, rgba(22,68,150,1) 75% );
 }
 .top-menu {
 	height: 35px;
@@ -377,7 +383,7 @@ a.tooltip:hover span {
   left: 1em;
   border: 1px solid;
   color: #00529B; background-color: #daecf4;
-  font-size: 12px; 
+  font-size: 12px;
   padding: 0.5em;
 }
 
@@ -402,28 +408,28 @@ a.tooltip:hover span {
 .tileWrapper a:hover, .tileWrapper a:active {
 	background-color: #eeeeee;
 }
-span.baseTable { 
-	display: table;  
-	text-align:left; 
-	width:100%; 
+span.baseTable {
+	display: table;
+	text-align:left;
+	width:100%;
 	margin-top: 10px;
 }
-span.baseRow { 
-	display: table-row; 
+span.baseRow {
+	display: table-row;
 	font-weight: normal;
 	line-height: 30px;
 }
-span.baseCell { 
-	display: table-cell; 
+span.baseCell {
+	display: table-cell;
 }
 span.baseCell:first-child {
 	width:62%;
-	text-align: right; 
+	text-align: right;
 }
 span.baseCell:nth-child(2) {
 	padding-left: 5px;
 }
-span.base { 
+span.base {
 	margin-top: 10px;
 	margin-bottom: 10px;
 	display: block;
