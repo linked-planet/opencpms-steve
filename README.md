@@ -5,4 +5,6 @@ With OpenCPMS we aim to provide a free, open, modern, lightweight and extendable
 We iterate fast whereby we want to start with a working system right from the get go. To facilitate this, we start out
 as a fork of the incredible project [SteVe](https://github.com/RWTH-i5-IDSG/steve).
 
+![Steve](src/main/resources/webapp/static/images/logo.png)
+
 Stay tuned
