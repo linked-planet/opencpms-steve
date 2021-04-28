@@ -1,25 +1,17 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <groupId>de.rwth.idsg</groupId>
-    <artifactId>steve</artifactId>
-    <version>3.4.4</version>
+    <groupId>com.linked-planet.opencpms</groupId>
+    <artifactId>opencpms</artifactId>
+    <version>0.0.1</version>
     <packaging>jar</packaging>
 
     <organization>
-        <name>RWTH Aachen University - Information Systems - Intelligent Distributed Systems Group (IDSG)</name>
-        <url>http://dbis.rwth-aachen.de/cms/teaching/IDSG</url>
+        <name>linked-planet GmbH</name>
+        <url>https://linked-planet.com</url>
     </organization>
 
-    <inceptionYear>2013</inceptionYear>
-
-    <developers>
-        <developer>
-            <name>Sevket Goekay</name>
-            <email>sevketgokay@gmail.com</email>
-            <url>https://github.com/goekay</url>
-        </developer>
-    </developers>
+    <inceptionYear>2021</inceptionYear>
 
     <licenses>
         <license>
